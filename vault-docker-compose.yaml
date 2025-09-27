@@ -18,4 +18,4 @@ services:
 
 volumes:
   vault-data:
-#echo "token is 'myroot'."
+#echo "user token as 'myroot'."
